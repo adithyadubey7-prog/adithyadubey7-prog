@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**adithyadubey7-prog/adithyadubey7-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Cybersecurity student focused on SOC operations, threat detection, and blue team security.
 
-Here are some ideas to get you started:
+## 🛡️ Skills
+- Wireshark
+- Nmap
+- OSNIT
+- Linux
+- Windows
+- Python
+- Networking Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 
+
+## 📜 Certifications
+- Cisco Networking Academy
+- 
+  
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/aditya-kumar-dubey-943432385
+- e-mail : adithyadubey7@gmail.com
